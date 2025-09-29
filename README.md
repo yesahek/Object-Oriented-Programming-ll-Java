@@ -15,6 +15,17 @@ This project is a collection of practice programs and examples built to strength
 - **Tools:** GitHub, IntelliJ IDEA / Eclipse (optional IDE)  
 
 ## 📂 Repository Structure  
+## Library Managment System Java Project
+      | LMS/LMSNew
+      |  ├── nbproject/   # Java source files
+      ├── src/ # Java source files
+      │ ├── classes/ # Encapsulation and class-based examples
+      │ ├── inheritance/ # Inheritance and polymorphism examples
+      │ ├── abstraction/ # Abstract classes and interfaces
+      │ └── others/ # Additional exercises
+      └── README.md # Project documentation
+## Student Managment System Java Project
+      |-- SMSProject/projectS
       ├── src/ # Java source files
       │ ├── classes/ # Encapsulation and class-based examples
       │ ├── inheritance/ # Inheritance and polymorphism examples
